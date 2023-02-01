@@ -1,0 +1,7 @@
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/install/strip.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/install/local.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/install.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/list_install_components.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/rebuild_cache.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/edit_cache.dir
+/home/mario/Pruefung_Copperspice/build/CMakeFiles/test1.dir

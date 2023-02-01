@@ -1,0 +1,5 @@
+/home/mario/Pruefung_Copperspice/deploy/./test1
+/home/mario/Pruefung_Copperspice/deploy/./libCsCore1.7.so
+/home/mario/Pruefung_Copperspice/deploy/./libCsGui1.7.so
+/home/mario/Pruefung_Copperspice/deploy/./platforms/CsGuiXcb1.7.so
+/home/mario/Pruefung_Copperspice/deploy/./libCsXcbSupport1.7.so
